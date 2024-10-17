@@ -1,0 +1,37 @@
+body {
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.section {
+    width: 310px;
+    height: 774px;
+    top: 586px;
+    border: 1px solid black;
+}
+
+.box-1 {
+    display: flex;
+    justify-content: space-between;
+    width: 268px;
+    height: 383px;
+    top: 600px;
+    border: 1px solid black;
+}
+
+.section-info {
+    width: 91px;
+    height: 360px;
+    border: 1px solid black;
+}
+
+.info-number {
+    width: 28px;
+    height: 360px;
+    border: 1px solid black;
+}
