@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 1205px;
+    margin: 0 auto;
+}
+
+.infoimg{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-card{
+    width: 585px;
+    height: 250px;
+    display: flex;
+    background-color: #FBFBFB;
+}
+
+
+img{
+    width: 292px 292px;
+}
+
+.info h1{
+top: 37px;
+}
