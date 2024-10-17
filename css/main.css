@@ -35,3 +35,8 @@ body {
     height: 360px;
     border: 1px solid black;
 }
+
+h1 {
+    color: red; 
+    /* added second */
+}
